@@ -36,4 +36,10 @@ public class Movement : MonoBehaviour
     {
         return isRunning;
     }
+
+    public Vector3 GetPlayerScreenPostion()
+    {
+        Vector3 playerScreenPosition = Camera.main.WorldToScreenPoint(transform.position);
+        return playerScreenPosition;
+    }
 }
