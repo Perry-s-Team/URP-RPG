@@ -22,8 +22,7 @@ public class Movement : MonoBehaviour
 
     private void HandleMovement()
     {
-        Vector2 inputVector = GameInput.Instance.GetMovementVector();
-        inputVector = inputVector.normalized;
+        Vector2 inputVector = GameInput.Instance.GetMovementVector();       
         _rigidbody2D.MovePosition(_rigidbody2D.position + inputVector * (Time.fixedDeltaTime * _speedPlayer));
 
         if (Mathf.Abs(inputVector.x) > 0.1f || Mathf.Abs(inputVector.y) > 0.1f)
