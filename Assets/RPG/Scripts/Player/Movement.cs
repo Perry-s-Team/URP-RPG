@@ -6,6 +6,7 @@ public class Movement : MonoBehaviour
 
     private Rigidbody2D _rigidbody2D;
     private bool isRunning = false;
+    private Vector2 inputVector;
 
     [SerializeField] private float _speedPlayer = 10f;
 
@@ -20,11 +21,14 @@ public class Movement : MonoBehaviour
         HandleMovement();
     }
 
+    private void Update()
+    {
+        inputVector = GameInput.Instance.GetMovementVector();
+    }
+
     private void HandleMovement()
     {
-        Vector2 inputVector = GameInput.Instance.GetMovementVector();       
         _rigidbody2D.MovePosition(_rigidbody2D.position + inputVector * (Time.fixedDeltaTime * _speedPlayer));
-
         if (Mathf.Abs(inputVector.x) > 0.1f || Mathf.Abs(inputVector.y) > 0.1f)
             isRunning = true;
         else

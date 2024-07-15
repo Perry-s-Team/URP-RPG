@@ -56,9 +56,18 @@ public class EnemyAI : MonoBehaviour
     {
         _roamingPosition = GetRoamingPosition();
         _navMeshAgent.SetDestination(_roamingPosition);
+        ChangeFacingDuration(_startingPosition, _roamingPosition);
     }
     private Vector3 GetRoamingPosition()
     {
         return _startingPosition + Utils.GetRandomDir() * UnityEngine.Random.Range(roamingDistanceMin, roamingDistanceMax);
+    }
+
+    private void ChangeFacingDuration(Vector3 soursePosition, Vector3 targetPosition)
+    {
+        if (soursePosition.x > targetPosition.x)
+            transform.rotation = Quaternion.Euler(0, -180, 0);
+        else
+            transform.rotation = Quaternion.Euler(0,0,0);
     }
 }
