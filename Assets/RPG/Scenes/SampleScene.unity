@@ -152,7 +152,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.7, y: 0.7, z: 0.7}
+  m_LocalScale: {x: 0.8, y: 0.8, z: 0.8}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 374635459}
@@ -349,8 +349,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.08378275, y: 0.29594347}
-  m_Size: {x: 0.90565544, y: 0.641468}
+  m_Offset: {x: -0.26163885, y: 0.12517281}
+  m_Size: {x: 0.9599967, y: 0.29992774}
   m_Direction: 1
 --- !u!1 &427438318
 GameObject:
@@ -735,7 +735,7 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
+  m_SpriteSortPoint: 1
 --- !u!4 &758402986
 Transform:
   m_ObjectHideFlags: 0
@@ -990,7 +990,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6175038103604519597, guid: 66469fa0c4a891449ba9011f8f9beecb, type: 3}
       propertyPath: m_Name
-      value: Mole
+      value: Skeleton
       objectReference: {fileID: 0}
     - target: {fileID: 8166850832528868593, guid: 66469fa0c4a891449ba9011f8f9beecb, type: 3}
       propertyPath: m_LocalPosition.x
