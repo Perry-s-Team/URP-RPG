@@ -1,6 +1,7 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class PlayerVisual : MonoBehaviour
 {
@@ -8,6 +9,8 @@ public class PlayerVisual : MonoBehaviour
     private SpriteRenderer _spriteRenderer;
 
     private const string IS_RUN = "isRun";
+    private const string ATTACK1 = "atack_1";
+    private const string ATTACK2 = "atack_2";
 
     private void Awake()
     {
@@ -19,6 +22,8 @@ public class PlayerVisual : MonoBehaviour
     {
         _animator.SetBool(IS_RUN, Movement.Instance.IsRunning());
         AdjustPlayerFacingDirection();
+
+        GetLeftMouse();
     }
 
     private void AdjustPlayerFacingDirection()
@@ -30,5 +35,24 @@ public class PlayerVisual : MonoBehaviour
             _spriteRenderer.flipX = true;
         else
             _spriteRenderer.flipX = false;  
+    }
+
+    private void GetLeftMouse()
+    {
+        if (Mouse.current.leftButton.wasPressedThisFrame)
+        {
+            RandomAnimation();
+        }
+    }
+
+    private void RandomAnimation()
+    {
+        var random = Random.Range(1, 3);
+        if (random == 1) {
+            Debug.Log(random.ToString());
+            _animator.SetTrigger("Atack_1"); }
+        else if (random == 2) {
+            Debug.Log(random.ToString());
+            _animator.SetTrigger("Atack_2"); }      
     }
 }

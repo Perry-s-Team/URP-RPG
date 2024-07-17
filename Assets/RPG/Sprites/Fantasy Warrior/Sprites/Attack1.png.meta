@@ -136,7 +136,7 @@ TextureImporter:
         serializedVersion: 2
         x: 65
         y: 61
-        width: 26
+        width: 33
         height: 45
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -252,27 +252,6 @@ TextureImporter:
       bones: []
       spriteID: 1d418ba254e65e249abecbeb31765ecc
       internalID: 465164814
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Attack1_15
-      rect:
-        serializedVersion: 2
-        x: 91
-        y: 71
-        width: 7
-        height: 4
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 091f14b5eabe4814d8b9d3671c206198
-      internalID: 2083547694
       vertices: []
       indices: 
       edges: []

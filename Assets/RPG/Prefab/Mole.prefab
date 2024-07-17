@@ -146,6 +146,9 @@ MonoBehaviour:
   roamingDistanceMax: 7
   roamingDistanceMin: 3
   roamingTimerMax: 2
+  _isChasingEnemy: 0
+  _chasingDisnance: 4
+  _chasingSpeedMultiplayer: 2
 --- !u!1 &8069791843123418506
 GameObject:
   m_ObjectHideFlags: 0
@@ -244,7 +247,7 @@ Animator:
   m_Controller: {fileID: 9100000, guid: b63707a7acfcc31429fe34e1f9bc55fb, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
-  m_ApplyRootMotion: 0
+  m_ApplyRootMotion: 1
   m_LinearVelocityBlending: 0
   m_StabilizeFeet: 0
   m_WarningMessage: 
