@@ -1,16 +1,15 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.InputSystem;
 
+[SelectionBase]
 public class PlayerVisual : MonoBehaviour
 {
     private Animator _animator;
     private SpriteRenderer _spriteRenderer;
 
     private const string IS_RUN = "isRun";
-    private const string ATTACK1 = "atack_1";
-    private const string ATTACK2 = "atack_2";
+    private const string ATTACK1 = "Atack_1";
+    private const string ATTACK2 = "Atack_2";
 
     private void Awake()
     {
@@ -49,10 +48,10 @@ public class PlayerVisual : MonoBehaviour
     {
         var random = Random.Range(1, 3);
         if (random == 1) {
-            Debug.Log(random.ToString());
-            _animator.SetTrigger("Atack_1"); }
+            //Debug.Log(random.ToString());
+            _animator.SetTrigger(ATTACK1); }
         else if (random == 2) {
-            Debug.Log(random.ToString());
-            _animator.SetTrigger("Atack_2"); }      
+            //Debug.Log(random.ToString());
+            _animator.SetTrigger(ATTACK2); }      
     }
 }

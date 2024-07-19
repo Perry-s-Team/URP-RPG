@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 3614613598821773064}
   - component: {fileID: 7618123438596381175}
   - component: {fileID: 2153603278670912588}
+  - component: {fileID: 550994501128555153}
   m_Layer: 0
   m_Name: Mole
   m_TagString: Untagged
@@ -149,6 +150,24 @@ MonoBehaviour:
   _isChasingEnemy: 0
   _chasingDisnance: 4
   _chasingSpeedMultiplayer: 2
+  _isAttackingEnemy: 0
+  _attackingDistance: 2
+  _attackRate: 2
+  _nextattackTime: 0
+--- !u!114 &550994501128555153
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6175038103604519597}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fa891ce07883fb41b7911f4c2ff27be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _maxHealth: 100
+  _damageToHim: 10
 --- !u!1 &8069791843123418506
 GameObject:
   m_ObjectHideFlags: 0
@@ -160,6 +179,7 @@ GameObject:
   - component: {fileID: 6717363767201789552}
   - component: {fileID: 1268913594045635212}
   - component: {fileID: 1483914722946501656}
+  - component: {fileID: 5711253516216712084}
   m_Layer: 0
   m_Name: SkeletonVisual
   m_TagString: Untagged
@@ -255,3 +275,16 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &5711253516216712084
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8069791843123418506}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c3a035e569212d46a3f4fbc637e2853, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _enemyAI: {fileID: 2153603278670912588}
