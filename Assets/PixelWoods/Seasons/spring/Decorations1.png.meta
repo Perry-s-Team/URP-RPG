@@ -93,824 +93,1236 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: swordman_1_0
+      name: Decorations1_0
       rect:
         serializedVersion: 2
-        x: 19
-        y: 270
-        width: 17
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4
+        y: 245
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e26add79cb9ab414f98f127c15686b30
-      internalID: 382112136
+      spriteID: 312a776e0bcf8e24589f489ddf3097c9
+      internalID: 364512123
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: swordman_1_1
+      name: Decorations1_1
       rect:
         serializedVersion: 2
-        x: 83
-        y: 270
-        width: 17
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 16
+        y: 246
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cdf97774b66ac8b47850c606cb3b252a
-      internalID: -1087574704
+      spriteID: a2aff0e7fff3fb24ea3957b25e65e564
+      internalID: -1224735154
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: swordman_1_2
+      name: Decorations1_2
       rect:
         serializedVersion: 2
-        x: 147
-        y: 270
-        width: 17
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 25
+        y: 244
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1472edc4ed45dbb478def467b7042986
-      internalID: 276103499
+      spriteID: fd64d5a782a68154ca5d99a97744560f
+      internalID: -1828690304
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: swordman_1_3
-      rect:
-        serializedVersion: 2
-        x: 211
-        y: 270
-        width: 17
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 78b382459e2a73442b908695f94e9426
-      internalID: 1105915079
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_4
-      rect:
-        serializedVersion: 2
-        x: 275
-        y: 270
-        width: 17
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 02326a8c3dd60514e90f25dd257d95a8
-      internalID: -338159129
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_5
-      rect:
-        serializedVersion: 2
-        x: 339
-        y: 270
-        width: 17
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e64998dcbf886104781200471f6faf98
-      internalID: 1102671047
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_6
-      rect:
-        serializedVersion: 2
-        x: 19
-        y: 206
-        width: 17
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8b4773e1854c3044ba7510519caaed94
-      internalID: -1878045210
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_7
-      rect:
-        serializedVersion: 2
-        x: 85
-        y: 206
-        width: 18
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e9f9502648e0cc148aeec8153551fcb1
-      internalID: -2107840551
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_8
-      rect:
-        serializedVersion: 2
-        x: 148
-        y: 206
-        width: 17
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e29d588d79d4b284aa827f39de53a2ae
-      internalID: 761005014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_9
-      rect:
-        serializedVersion: 2
-        x: 211
-        y: 206
-        width: 17
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 902dbb67040353d47bf73faa606609da
-      internalID: -112278712
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_10
-      rect:
-        serializedVersion: 2
-        x: 272
-        y: 206
-        width: 21
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dc477ec7e50f3744da5a41e4e52dfb0f
-      internalID: 531875184
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_11
-      rect:
-        serializedVersion: 2
-        x: 337
-        y: 206
-        width: 20
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eaaeecd84d9c1794796f291bd75bc2a8
-      internalID: -1854996268
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_12
-      rect:
-        serializedVersion: 2
-        x: 19
-        y: 142
-        width: 17
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bd1b567fe51ce354aad9f69e168fc378
-      internalID: 1775701850
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_13
-      rect:
-        serializedVersion: 2
-        x: 85
-        y: 142
-        width: 18
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d61e0bcf39cb5454b8f9c6f8a369b169
-      internalID: 1375198015
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_14
-      rect:
-        serializedVersion: 2
-        x: 147
-        y: 137
-        width: 25
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c5a71707818b7b84fbb8706418a0868b
-      internalID: 1613647582
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_15
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 136
-        width: 28
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fd219f8171939f641852d1aec95e3152
-      internalID: 161074413
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_16
-      rect:
-        serializedVersion: 2
-        x: 274
-        y: 136
-        width: 28
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c6ffbd2f44ab0de459557ef2f94f6dda
-      internalID: -217036042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_17
-      rect:
-        serializedVersion: 2
-        x: 338
-        y: 136
-        width: 28
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a66d3af0ff6820b4dbc571ff447694d6
-      internalID: 1465878960
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_18
-      rect:
-        serializedVersion: 2
-        x: 213
-        y: 132
-        width: 14
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 91604f20855d92245b874d4e9a0dbd73
-      internalID: -367401739
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_19
-      rect:
-        serializedVersion: 2
-        x: 277
-        y: 131
-        width: 13
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bd403c0209999c347814b3c004326e0e
-      internalID: -576292684
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_20
-      rect:
-        serializedVersion: 2
-        x: 341
-        y: 132
-        width: 14
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 966597ecf05f4bc428ad5c2e80845120
-      internalID: -718640040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_21
-      rect:
-        serializedVersion: 2
-        x: 19
-        y: 78
-        width: 17
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 386bf53a16cb0694ba08aaa8f49d4547
-      internalID: -339711186
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_22
-      rect:
-        serializedVersion: 2
-        x: 82
-        y: 78
-        width: 18
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cddd793d12780ff489921960cc79afbb
-      internalID: 680633777
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_23
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 78
-        width: 28
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 722f3fa6bae12584a8a6cc4ed5ca89b7
-      internalID: 1375458319
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_24
-      rect:
-        serializedVersion: 2
-        x: 213
-        y: 78
-        width: 39
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9adafb56a1fed1c468c1c0eb1c79e7fa
-      internalID: -459114688
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_25
-      rect:
-        serializedVersion: 2
-        x: 278
-        y: 78
-        width: 34
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ba107ff6d03abe449a95de6761db748a
-      internalID: -1197370271
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_26
-      rect:
-        serializedVersion: 2
-        x: 342
-        y: 78
-        width: 20
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bb1e79501ec7da445bbaaf74d72197ea
-      internalID: 1889408106
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_27
-      rect:
-        serializedVersion: 2
-        x: 26
-        y: 39
-        width: 6
-        height: 4
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1279d15a0003c8c45afb7d1834f643e8
-      internalID: 232379455
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_28
-      rect:
-        serializedVersion: 2
-        x: 42
-        y: 39
-        width: 6
-        height: 4
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2c8b7c79819117945a81da88e30011f0
-      internalID: -2001478195
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_29
-      rect:
-        serializedVersion: 2
-        x: 58
-        y: 39
-        width: 6
-        height: 4
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1e8b097efd32ac847a09d8450cf54ba4
-      internalID: -632598007
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_30
-      rect:
-        serializedVersion: 2
-        x: 74
-        y: 39
-        width: 6
-        height: 4
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6ff3603042dcab143be6e28c89062c44
-      internalID: -1099344459
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_31
-      rect:
-        serializedVersion: 2
-        x: 22
-        y: 29
-        width: 10
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a9258ed709ab1214fbc363a9bcd759be
-      internalID: 557069034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_32
+      name: Decorations1_3
       rect:
         serializedVersion: 2
         x: 38
-        y: 29
-        width: 10
+        y: 244
+        width: 8
         height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 806209cf4c55a7c4593a02d0558e2185
-      internalID: -150118976
+      spriteID: 3efdc0a5d4847e64aadf95e2b74ad8ce
+      internalID: -275293901
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: swordman_1_33
+      name: Decorations1_4
       rect:
         serializedVersion: 2
-        x: 54
-        y: 29
+        x: 47
+        y: 242
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8fd56334e2d294796420ef97c227c6
+      internalID: 1461437944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 240
         width: 10
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0cd69e5a02b0e5459b678682da82bf1
-      internalID: 159622550
+      spriteID: 98cb1e591ad95be43ab97cb21ae4a1f5
+      internalID: 1555488538
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: swordman_1_34
+      name: Decorations1_6
       rect:
         serializedVersion: 2
-        x: 70
-        y: 29
+        x: 98
+        y: 240
         width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb8f2afc53132a48b32b9ad6462b576
+      internalID: 740585879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_7
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 240
+        width: 11
         height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 540c502735892df46879f6beda3ca2b6
-      internalID: -270019567
+      spriteID: 9e2f0f4694dde0d4c807744b9b639d5e
+      internalID: 197127897
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: swordman_1_35
+      name: Decorations1_8
       rect:
         serializedVersion: 2
-        x: 24
-        y: 22
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5
+        y: 227
+        width: 24
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d2ae46fbe18a59343af8e769bceb2215
-      internalID: -687310877
+      spriteID: bd40434054906fc48ba45c6a1a0f05ba
+      internalID: -265023229
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: swordman_1_36
+      name: Decorations1_9
       rect:
         serializedVersion: 2
-        x: 40
-        y: 22
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 115
+        y: 224
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39b78396d30c92041b953dd630ad321c
-      internalID: 629276884
+      spriteID: db2c49c511b695e43b5eabf30178a9c4
+      internalID: 536560527
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: swordman_1_37
+      name: Decorations1_10
       rect:
         serializedVersion: 2
-        x: 56
-        y: 22
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 208
+        y: 180
+        width: 48
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13897705}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b06261f63cc24f94c9fbc4503ce56f12
-      internalID: -1743529213
+      spriteID: 6f03e8ff362876a43a3ee73f7c116801
+      internalID: -1722198443
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: swordman_1_38
+      name: Decorations1_11
       rect:
         serializedVersion: 2
-        x: 72
-        y: 22
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 028dcae0059b0a945840573ee86d8aa0
-      internalID: -84668865
+      spriteID: 93e8db81febd40e4e80c9081cac61f45
+      internalID: 901380272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 207
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1414994026cc8cf40bf7ab4dcbc4d281
+      internalID: -1885028725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 206
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16881425a7e523c448b44e22540632ec
+      internalID: 2061848742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_14
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 208
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efeb103d482b2d340bd0839445f148c8
+      internalID: -975407978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 206
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af0028f65007ad40a0ae3c159dae09f
+      internalID: 81010624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 180
+        width: 30
+        height: 35
+      alignment: 9
+      pivot: {x: 0.51061606, y: 0.19109367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4019dd4a831ec0d468e804fe6399b7ac
+      internalID: 2135227236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_17
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 176
+        width: 40
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.063697815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ff4a77e0920d6479f63c255314336b
+      internalID: 557019167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 199
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ded5d0565ce95649999aa8150d73497
+      internalID: -1197927329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_19
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 199
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedddb9b24f7422448e0b802eea05095
+      internalID: -958107077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 167
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d98939b8cb2d3047b7391c6c6296617
+      internalID: 1773069945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 160
+        width: 30
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b317f97447f3c684db0e0e211d6aaf11
+      internalID: 1504622299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_22
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 178
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4174495a7352d4eb9e908747097c68
+      internalID: 1082605670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 178
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7ebbe877bee9349b23dd670c8ede84
+      internalID: -1876957141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_24
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 178
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907ff0d2535e31e4983946de861f614c
+      internalID: -371048611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_25
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 177
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67f8a8a5bb077d419af5669ca42ab2a
+      internalID: -1729926673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11581421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01dcba1d35ee11439768d462a01c89b
+      internalID: -126382455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_27
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 163
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7792c6574b87e1645a92b1d040670251
+      internalID: 1382897434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 161
+        width: 15
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae04fba8bf59e8841b8490fe89275a30
+      internalID: -1134435716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 116
+        width: 48
+        height: 55
+      alignment: 9
+      pivot: {x: 0.49336496, y: 0.1447679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5164710bc6671204c9a6422d19bd39bb
+      internalID: 706594832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 144
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a6c80d28940f24eaf966e8110f8897
+      internalID: -556641127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_31
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 145
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6256e62c2de8734fab805b22e8fedc1
+      internalID: -1348166114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_33
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 132
+        width: 26
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de29fea80a76ca34fac00421e6903749
+      internalID: 1671604124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_34
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 116
+        width: 30
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18199398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9dca77d9829064cbbe81968f0db569
+      internalID: 698970564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_35
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 112
+        width: 40
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.099527836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4942bf10b0c0942ac657768153e9f4
+      internalID: 1829320616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 113
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6a0ed81c6c2e246a7bd65b7966e6d8
+      internalID: -24959278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 97
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cd05875e08ce04f8998846607bb742
+      internalID: 1251518154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d68dcd4afcb3847884ac7f945d088f
+      internalID: -1155751942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 66
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cded15cf9ae64654aa749996b94461d9
+      internalID: -731692812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_41
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 65
+        width: 13
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d2e6955d4384245924b6338af79103
+      internalID: -1881393717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_42
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 65
+        width: 13
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fef377c5e69ac14e9452a091b21bdd5
+      internalID: 513629610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_43
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 66
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb10f03309ef3d42baaf36a1a4f9f48
+      internalID: 1897691863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_44
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 65
+        width: 13
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec73fbe8d8a13e4b8344f91b477cdcd
+      internalID: -121506831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_45
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 65
+        width: 30
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb92d817f679c944b900176bfe863f3
+      internalID: 611899083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_46
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 68
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8d074d22ec6f646b7f8414f07a693f
+      internalID: -277944563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_47
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 66
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0e6352150a9a9419206e65463892b9
+      internalID: 992282850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_48
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 64
+        width: 11
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e78f11b61699a4b8b192b55f6d2c99
+      internalID: 837370030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_49
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 64
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f6d10bc75f41a449d29daf8c4fdf77
+      internalID: -389236196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_50
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 67
+        width: 30
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01eebd2f26cb5c74eb71a59f4c001b91
+      internalID: 76082400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_51
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 52
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37086fc7dd312b841a4f51aeb1679540
+      internalID: 503017948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_52
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 50
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3592f1535362eea47a4dc9222085f90d
+      internalID: 673864347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_53
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 49
+        width: 13
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b73cfd3bd896024d86b8a9febfbe29b
+      internalID: -2055336978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_54
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 49
+        width: 13
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ca7cd565ea4a6479807fa8a31411f0
+      internalID: 79504311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef2109502b7bcd4c9402060c9661e83
+      internalID: -1388576531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85080d00c84dcb3478810aaa1605fe1a
+      internalID: -1725540762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abd089e5387b7543be29306f3dbdbcb
+      internalID: -36237520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbaa38fd621a254ebef7be5bd4a0913
+      internalID: -1495644693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations1_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fca13d762552d24d95739cbc308cd07
+      internalID: -1113422014
       vertices: []
       indices: 
       edges: []
@@ -926,45 +1338,65 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      swordman_1_0: 382112136
-      swordman_1_1: -1087574704
-      swordman_1_10: 531875184
-      swordman_1_11: -1854996268
-      swordman_1_12: 1775701850
-      swordman_1_13: 1375198015
-      swordman_1_14: 1613647582
-      swordman_1_15: 161074413
-      swordman_1_16: -217036042
-      swordman_1_17: 1465878960
-      swordman_1_18: -367401739
-      swordman_1_19: -576292684
-      swordman_1_2: 276103499
-      swordman_1_20: -718640040
-      swordman_1_21: -339711186
-      swordman_1_22: 680633777
-      swordman_1_23: 1375458319
-      swordman_1_24: -459114688
-      swordman_1_25: -1197370271
-      swordman_1_26: 1889408106
-      swordman_1_27: 232379455
-      swordman_1_28: -2001478195
-      swordman_1_29: -632598007
-      swordman_1_3: 1105915079
-      swordman_1_30: -1099344459
-      swordman_1_31: 557069034
-      swordman_1_32: -150118976
-      swordman_1_33: 159622550
-      swordman_1_34: -270019567
-      swordman_1_35: -687310877
-      swordman_1_36: 629276884
-      swordman_1_37: -1743529213
-      swordman_1_38: -84668865
-      swordman_1_4: -338159129
-      swordman_1_5: 1102671047
-      swordman_1_6: -1878045210
-      swordman_1_7: -2107840551
-      swordman_1_8: 761005014
-      swordman_1_9: -112278712
+      Decorations1_0: 364512123
+      Decorations1_1: -1224735154
+      Decorations1_10: -1722198443
+      Decorations1_11: 901380272
+      Decorations1_12: -1885028725
+      Decorations1_13: 2061848742
+      Decorations1_14: -975407978
+      Decorations1_15: 81010624
+      Decorations1_16: 2135227236
+      Decorations1_17: 557019167
+      Decorations1_18: -1197927329
+      Decorations1_19: -958107077
+      Decorations1_2: -1828690304
+      Decorations1_20: 1773069945
+      Decorations1_21: 1504622299
+      Decorations1_22: 1082605670
+      Decorations1_23: -1876957141
+      Decorations1_24: -371048611
+      Decorations1_25: -1729926673
+      Decorations1_26: -126382455
+      Decorations1_27: 1382897434
+      Decorations1_28: -1134435716
+      Decorations1_29: 706594832
+      Decorations1_3: -275293901
+      Decorations1_30: -556641127
+      Decorations1_31: -1348166114
+      Decorations1_32: -1388576531
+      Decorations1_33: 1671604124
+      Decorations1_34: 698970564
+      Decorations1_35: 1829320616
+      Decorations1_36: -24959278
+      Decorations1_37: 1251518154
+      Decorations1_38: -1155751942
+      Decorations1_39: -1725540762
+      Decorations1_4: 1461437944
+      Decorations1_40: -731692812
+      Decorations1_41: -1881393717
+      Decorations1_42: 513629610
+      Decorations1_43: 1897691863
+      Decorations1_44: -121506831
+      Decorations1_45: 611899083
+      Decorations1_46: -277944563
+      Decorations1_47: 992282850
+      Decorations1_48: 837370030
+      Decorations1_49: -389236196
+      Decorations1_5: 1555488538
+      Decorations1_50: 76082400
+      Decorations1_51: 503017948
+      Decorations1_52: 673864347
+      Decorations1_53: -2055336978
+      Decorations1_54: 79504311
+      Decorations1_55: -36237520
+      Decorations1_56: -1495644693
+      Decorations1_57: -1113422014
+      Decorations1_58: -152120320
+      Decorations1_6: 740585879
+      Decorations1_7: 197127897
+      Decorations1_8: -265023229
+      Decorations1_9: 536560527
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
