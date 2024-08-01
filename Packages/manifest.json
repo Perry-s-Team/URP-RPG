@@ -2,6 +2,7 @@
   "dependencies": {
     "com.unity.2d.tilemap.extras": "file:C:/Users/niiit/Downloads/2d-extras-2.2.2/2d-extras-2.2.2",
     "com.unity.ai.navigation": "1.1.5",
+    "com.unity.cinemachine": "2.9.7",
     "com.unity.collab-proxy": "2.4.3",
     "com.unity.feature.2d": "2.0.0",
     "com.unity.ide.rider": "3.0.28",

@@ -1,14 +1,12 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine.InputSystem;
+﻿using UnityEngine.InputSystem;
 using UnityEngine;
-using UnityEngine.InputSystem.Controls;
 
 public class GameInput : MonoBehaviour
 {
     public static GameInput Instance { get; private set; }
 
     private PlayerControls _playerControls;
+    [SerializeField] private Animator _animator;
 
 
     private void Awake()
@@ -22,6 +20,10 @@ public class GameInput : MonoBehaviour
     public Vector2 GetMovementVector()
     {
         Vector2 inputVector = _playerControls.Player.Move.ReadValue<Vector2>();
+
+        _animator.SetFloat("Horizontal", inputVector.x);
+        _animator.SetFloat("Vertical", inputVector.y);
+        _animator.SetFloat("Speed", inputVector.sqrMagnitude);
 
         return inputVector;
     }
